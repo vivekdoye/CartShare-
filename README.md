@@ -17,6 +17,7 @@ generates a clean, **printable group receipt** with participants, delivery fee, 
 and multiple browser tabs act as multiple users through `window.addEventListener("storage", …)`.
 
 ---
+Project Link :-https://vivekdoye.github.io/CartShare-/
 
 ## 2. Folder Structure
 
